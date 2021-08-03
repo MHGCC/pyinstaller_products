@@ -1,0 +1,2 @@
+build/hello_tk/PKG-00.pkg filter=lfs diff=lfs merge=lfs -text
+dist/hello_tk.exe filter=lfs diff=lfs merge=lfs -text
